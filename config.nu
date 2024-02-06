@@ -4,4 +4,4 @@ module config_path {
     }
 }
 
-use config_path 'hello'
+use config_path file 'hello'
