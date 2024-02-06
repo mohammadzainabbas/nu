@@ -1,4 +1,4 @@
-## `nushell` - Reference Videos :tv:
+## `nushell` related blogs :books:
 
 ### Table of Contents
 
