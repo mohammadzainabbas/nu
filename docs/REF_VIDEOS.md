@@ -20,3 +20,5 @@
 | <a href="https://www.youtube.com/watch?v=uCkJC5eSvKw"><img alt="Using Nushell to find unused dependencies" src="https://img.youtube.com/vi/uCkJC5eSvKw/0.jpg" width="50%" ></a> | **Using Nushell to find unused dependencies** |
 | <a href="https://www.youtube.com/watch?v=1GntvzBTEbY"><img alt="Let's work on Nushell: porting a command to the new engine" src="https://img.youtube.com/vi/1GntvzBTEbY/0.jpg" width="50%" ></a> | **Let's work on Nushell: porting a command to the new engine** |
 | <a href="https://www.youtube.com/watch?v=1GntvzBTEbY"><img alt="Let's work on Nushell: porting a command to the new engine" src="https://img.youtube.com/vi/1GntvzBTEbY/0.jpg" width="50%" ></a> | **Let's work on Nushell: porting a command to the new engine** |
+
+https://www.youtube.com/watch?v=1GntvzBTEbY
