@@ -1,1 +1,2 @@
-404: Not Found
+# Ignore macOS directory attributes
+.DS_Store
