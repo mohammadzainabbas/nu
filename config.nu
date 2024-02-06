@@ -1,6 +1,6 @@
 module config_paths {
-    export def file [filename: string] {
-        $"~/.config/nushell/configs/($filename).nu"
+    export def default_config [] {
+        $"~/.config/nushell/configs/hello.nu"
     }
 }
 
