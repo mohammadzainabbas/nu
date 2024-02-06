@@ -14,7 +14,7 @@
 | My first experiences with NuShell | [click _here_](https://jacekw.dev/blog/2022/first-experiences-with-nushell/) |
 | The modern CLI stack | [click _here_](https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d) |
 | Nushell: Introduction to a new kind of shell | [click _here_](https://dataswamp.org/~solene/2022-10-31-nushell.html) |
-|  | [click _here_](https://zenn.dev/hkawa) |
+| Articles by _hkawa_ | [click _here_](https://zenn.dev/hkawa) |
 |  | [click _here_](https://www.reillywood.com/blog/why-nu/) |
 |  | [click _here_](https://determinate.systems/posts/nuenv) |
 |  | [click _here_](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell) |
