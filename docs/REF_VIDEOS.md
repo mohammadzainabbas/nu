@@ -2,12 +2,12 @@
 
 ### Table of Contents
 
-1. [Rust Playlists :clapper:](#rust-playlists-clapper)
+1. [`nushell` showcase :clapper:](#rust-playlists-clapper)
 1. [Backend Dev :computer:](#backend-dev-computer)
 
 #
 
-### Rust Playlists :clapper:
+### `nushell` showcase :clapper:
 
 https://github.com/nushell/showcase/tree/main/media
 
