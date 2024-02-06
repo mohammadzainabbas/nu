@@ -9,6 +9,8 @@
 
 ### Rust Playlists :clapper:
 
+https://github.com/nushell/showcase/tree/main/media
+
 > [!TIP]
 > Below mentioned playlists can be used to learn more about Rust.
 
