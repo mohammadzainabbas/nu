@@ -5,4 +5,4 @@ module config_paths {
     }
 }
 
-use config_paths default_config
+use config_paths default_config;
