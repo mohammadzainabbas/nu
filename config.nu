@@ -1,1 +1,1 @@
-use $"(pwd)"
+let config_dir = [(pwd) "configs"] | path join
