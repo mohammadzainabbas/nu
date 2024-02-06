@@ -21,6 +21,6 @@
 | <a href="https://www.youtube.com/watch?v=1GntvzBTEbY"><img alt="Let's work on Nushell: porting a command to the new engine" src="https://img.youtube.com/vi/1GntvzBTEbY/0.jpg" width="50%" ></a> | **Let's work on Nushell: porting a command to the new engine** |
 | <a href="https://www.youtube.com/watch?v=E5RS9qe2Ow8"><img alt="Quick Nushell update from a hotel room" src="https://img.youtube.com/vi/E5RS9qe2Ow8/0.jpg" width="50%" ></a> | **Quick Nushell update from a hotel room** |
 | <a href="https://www.youtube.com/watch?v=3o8b_QcrFHc"><img alt="Designing a parallel scripting engine" src="https://img.youtube.com/vi/3o8b_QcrFHc/0.jpg" width="50%" ></a> | **Designing a parallel scripting engine** |
-| <a href="https://www.youtube.com/watch?v=3o8b_QcrFHc"><img alt="Designing a parallel scripting engine" src="https://img.youtube.com/vi/3o8b_QcrFHc/0.jpg" width="50%" ></a> | **Designing a parallel scripting engine** |
+| <a href="https://www.youtube.com/watch?v=8VCKHIooB_8"><img alt="Nushell's upcoming engine" src="https://img.youtube.com/vi/8VCKHIooB_8/0.jpg" width="50%" ></a> | **Nushell's upcoming engine** |
 
-https://www.youtube.com/watch?v=3o8b_QcrFHc
+https://www.youtube.com/watch?v=8VCKHIooB_8
