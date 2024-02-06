@@ -25,6 +25,6 @@
 | <a href="https://www.youtube.com/watch?v=CPI2XeX-uJQ"><img alt="Nushell quickie: working with text files" src="https://img.youtube.com/vi/CPI2XeX-uJQ/0.jpg" width="50%" ></a> | **Nushell quickie: working with text files** |
 | <a href="https://www.youtube.com/watch?v=AqYxhJKblvY"><img alt="Nushell 0.32 (release video)" src="https://img.youtube.com/vi/AqYxhJKblvY/0.jpg" width="50%" ></a> | **Nushell 0.32 (release video)** |
 | <a href="https://www.youtube.com/watch?v=CnbI14B5luY"><img alt="Working on Nushell - improving the 'let' command" src="https://img.youtube.com/vi/CnbI14B5luY/0.jpg" width="50%" ></a> | **Working on Nushell - improving the 'let' command** |
-| <a href="https://www.youtube.com/watch?v=CnbI14B5luY"><img alt="Working on Nushell - improving the 'let' command" src="https://img.youtube.com/vi/CnbI14B5luY/0.jpg" width="50%" ></a> | **Working on Nushell - improving the 'let' command** |
+| <a href="https://www.youtube.com/watch?v=2AknX7canvw"><img alt="Experimenting with a new engine for Nushell" src="https://img.youtube.com/vi/2AknX7canvw/0.jpg" width="50%" ></a> | **Experimenting with a new engine for Nushell** |
 
 https://www.youtube.com/watch?v=2AknX7canvw
