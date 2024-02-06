@@ -1,8 +1,8 @@
-module config_paths {
-    const config_dir = "~/.config/nushell/configs"
-    export def default_config [] {
-        $"($config_dir)/hello.nu"
-    }
-}
+const config_dir = "~/.config/nushell/configs"
+# module config_paths {
+#     export def default_config [] {
+#         $"($config_dir)/hello.nu"
+#     }
+# }
 
-use config_paths default_config;
+use $"($config_dir)/hello.nu"
