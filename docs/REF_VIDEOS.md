@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-1. [`nushell` showcase :clapper:](#rust-playlists-clapper)
+1. [`nushell` showcase :clapper:](#nushell-showcase-clapper)
 1. [Backend Dev :computer:](#backend-dev-computer)
 
 #
