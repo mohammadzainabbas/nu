@@ -40,3 +40,35 @@
 | <a href="https://www.youtube.com/watch?v=Wnb_n5YktO8"><img alt="Decrusting the axum crate" src="https://img.youtube.com/vi/Wnb_n5YktO8/0.jpg" width="50%" ></a> | **Decrusting the axum crate** |
 
 
+- [#1 Part 1]
+| 1 | <a href="https://www.youtube.com/watch?v=xXVyHsRR168"><img src="https://img.youtube.com/vi/xXVyHsRR168/0.jpg" width="50%"></a> | **** |
+- [#2 Part 2]
+| 2 | <a href="https://www.youtube.com/watch?v=rwxTQEk33OE"><img src="https://img.youtube.com/vi/rwxTQEk33OE/0.jpg" width="50%"></a> | **** |
+- [#3 Part 3]
+| 3 | <a href="https://www.youtube.com/watch?v=lO5aUQhZzSs"><img src="https://img.youtube.com/vi/lO5aUQhZzSs/0.jpg" width="50%"></a> | **** |
+- [#4 Part 4]
+| 4 | <a href="https://www.youtube.com/watch?v=sdswoYV3kKA"><img src="https://img.youtube.com/vi/sdswoYV3kKA/0.jpg" width="50%"></a> | **** |
+- [#5 Part 5]
+| 5 | <a href="https://www.youtube.com/watch?v=krWcQ3LSnIw"><img src="https://img.youtube.com/vi/krWcQ3LSnIw/0.jpg" width="50%"></a> | **** |
+- [#6 Part 6]
+| 6 | <a href="https://www.youtube.com/watch?v=1bmwSczA6F8"><img src="https://img.youtube.com/vi/1bmwSczA6F8/0.jpg" width="50%"></a> | **** |
+- [#7 Making our API and publishing]
+| 7 | <a href="https://www.youtube.com/watch?v=Tu8putsVlZs"><img src="https://img.youtube.com/vi/Tu8putsVlZs/0.jpg" width="50%"></a> | **** |
+- [#8 Configurable Prompts]
+| 8 | <a href="https://www.youtube.com/watch?v=_YO393I39NY"><img src="https://img.youtube.com/vi/_YO393I39NY/0.jpg" width="50%"></a> | **** |
+- [#9 Improved history navigation]
+| 9 | <a href="https://www.youtube.com/watch?v=SSQ54oJ6224"><img src="https://img.youtube.com/vi/SSQ54oJ6224/0.jpg" width="50%"></a> | **** |
+- [#10 Configurable keybindings]
+| 10 | <a href="https://www.youtube.com/watch?v=5rRy6BqQtnU"><img src="https://img.youtube.com/vi/5rRy6BqQtnU/0.jpg" width="50%"></a> | **** |
+- [#11 vi mode]
+| 11 | <a href="https://www.youtube.com/watch?v=0UywCfalY8U"><img src="https://img.youtube.com/vi/0UywCfalY8U/0.jpg" width="50%"></a> | **** |
+- [#12 Animated Prompts]
+| 12 | <a href="https://www.youtube.com/watch?v=5V_S9IE26Rk"><img src="https://img.youtube.com/vi/5V_S9IE26Rk/0.jpg" width="50%"></a> | **** |
+- [#13 Improved vi parsing]
+| 13 | <a href="https://www.youtube.com/watch?v=MKqRFxfdtv4"><img src="https://img.youtube.com/vi/MKqRFxfdtv4/0.jpg" width="50%"></a> | **** |
+- [#14 Syntax Highlighting]
+| 14 | <a href="https://www.youtube.com/watch?v=4vw5iJMLQx0"><img src="https://img.youtube.com/vi/4vw5iJMLQx0/0.jpg" width="50%"></a> | **** |
+- [#15 Multiline Support]
+| 15 | <a href="https://www.youtube.com/watch?v=Gtxh4nzeLRs"><img src="https://img.youtube.com/vi/Gtxh4nzeLRs/0.jpg" width="50%"></a> | **** |
+- [#16 Improving Multiline Support]
+| 16 | <a href="https://www.youtube.com/watch?v=S26iiFC9_bo"><img src="https://img.youtube.com/vi/S26iiFC9_bo/0.jpg" width="50%"></a> | **** |
