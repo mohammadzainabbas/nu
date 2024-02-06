@@ -1,4 +1,4 @@
-module config_path {
+module config_paths {
     export def file [filename: string] {
         $"~/.config/nushell/configs/($filename).nu"
     }
@@ -6,4 +6,4 @@ module config_path {
 
 use config_path file
 
-file hello
+use file hello
