@@ -1,5 +1,5 @@
-module greetings {
-    export def hello [name: string] {
+module config_path {
+    export def file [filename: string] {
         $"hello ($name)!"
     }
 
