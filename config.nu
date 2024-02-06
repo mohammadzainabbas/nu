@@ -1,7 +1,6 @@
 module config_path {
-    const config_dir = $"(pwd)/configs"
-    
-export def file [filename: string] {
+    export def file [filename: string] {
+        const config_dir = "~/.config/nushell/configs/"
         
         $"hello ($name)!"
     }
