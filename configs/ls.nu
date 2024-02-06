@@ -17,9 +17,31 @@ let dark_theme = {
     # eg) {|| if $in { 'light_cyan' } else { 'light_gray' } }
     bool: light_cyan
     int: white
-    filesize: cyan
+    filesize: {|e|
+      if $e == 0b {
+        'white'
+      } else if $e < 1mb {
+        'cyan'
+      } else { 'blue' }
+    }
     duration: white
-    date: purple
+    date: {|| (date now) - $in |
+      if $in < 1hr {
+        'purple'
+      } else if $in < 6hr {
+        'red'
+      } else if $in < 1day {
+        'yellow'
+      } else if $in < 3day {
+        'green'
+      } else if $in < 1wk {
+        'light_green'
+      } else if $in < 6wk {
+        'cyan'
+      } else if $in < 52wk {
+        'blue'
+      } else { 'dark_gray' }
+    }
     range: white
     float: white
     string: white
@@ -42,7 +64,6 @@ let dark_theme = {
     shape_directory: cyan
     shape_external: cyan
     shape_externalarg: green_bold
-    shape_external_resolved: light_yellow_bold
     shape_filepath: cyan
     shape_flag: blue_bold
     shape_float: purple_bold
@@ -51,7 +72,6 @@ let dark_theme = {
     shape_globpattern: cyan_bold
     shape_int: purple_bold
     shape_internalcall: cyan_bold
-    shape_keyword: cyan_bold
     shape_list: cyan_bold
     shape_literal: blue
     shape_match_pattern: green
@@ -82,9 +102,31 @@ let light_theme = {
     # eg) {|| if $in { 'dark_cyan' } else { 'dark_gray' } }
     bool: dark_cyan
     int: dark_gray
-    filesize: cyan_bold
+    filesize: {|e|
+      if $e == 0b {
+        'dark_gray'
+      } else if $e < 1mb {
+        'cyan_bold'
+      } else { 'blue_bold' }
+    }
     duration: dark_gray
-    date: purple
+    date: {|| (date now) - $in |
+    if $in < 1hr {
+      'purple'
+    } else if $in < 6hr {
+      'red'
+    } else if $in < 1day {
+      'yellow'
+    } else if $in < 3day {
+      'green'
+    } else if $in < 1wk {
+      'light_green'
+    } else if $in < 6wk {
+      'cyan'
+    } else if $in < 52wk {
+      'blue'
+    } else { 'dark_gray' }
+  }
     range: dark_gray
     float: dark_gray
     string: dark_gray
@@ -107,7 +149,6 @@ let light_theme = {
     shape_directory: cyan
     shape_external: cyan
     shape_externalarg: green_bold
-    shape_external_resolved: light_purple_bold
     shape_filepath: cyan
     shape_flag: blue_bold
     shape_float: purple_bold
@@ -116,7 +157,6 @@ let light_theme = {
     shape_globpattern: cyan_bold
     shape_int: purple_bold
     shape_internalcall: cyan_bold
-    shape_keyword: cyan_bold
     shape_list: cyan_bold
     shape_literal: blue
     shape_match_pattern: green
