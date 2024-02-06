@@ -1,1 +1,1 @@
-use "~/.config/nushell/configs/hello.nu"; 
+use "~/.config/nushell/configs/hello.nu";
