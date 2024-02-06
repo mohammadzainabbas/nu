@@ -9,10 +9,8 @@
 
 ### `nushell` showcase :clapper:
 
-https://github.com/nushell/showcase/tree/main/media
-
 > [!NOTE]
-> This following list is a collection of videos that can be used to learn more about `nushell`.
+> This following list is a collection of videos that can be used to learn more about `nushell`. Original source of these videos can be found [here](https://github.com/nushell/showcase/tree/main/media).
 
 | Playlist | Playlist title |
 | :----: | :---: |
