@@ -1,1 +1,1 @@
-print "Hi from hello.nu"
+def foo [] { "Hi from hello.nu" }
