@@ -4,4 +4,4 @@ module config_path {
     }
 }
 
-use $"($config_dir)"
+use config_path hello
