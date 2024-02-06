@@ -7,18 +7,18 @@
 | Title | Link |
 | :----: | :---: |
 
-| | [click here](https://itsfoss.com/nushell/) |
-| | [click here](https://www.linux.pl/2022/05/17/nushell-powloka-z-nowym-pomyslem/) |
-| | [click here](https://dev.to/vaibhavdn/using-fnm-with-nushell-3kh1) |
-| | [click here](https://www.techwatching.dev/posts/http-clients-secrets) |
-| | [click here](https://jacekw.dev/blog/2022/first-experiences-with-nushell/) |
-| | [click here](https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d) |
-| | [click here](https://dataswamp.org/~solene/2022-10-31-nushell.html) |
-| | [click here](https://zenn.dev/hkawa) |
-| | [click here](https://www.reillywood.com/blog/why-nu/) |
-| | [click here](https://determinate.systems/posts/nuenv) |
-| | [click here](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell) |
-| | [click here](https://www.seachess.net/notes/from-jq-to-nushell/) |
+| Nushell: Cross-platform Shell That Gives You More Clarity on Error Messages | [click _here_](https://itsfoss.com/nushell/) |
+|  | [click _here_](https://www.linux.pl/2022/05/17/nushell-powloka-z-nowym-pomyslem/) |
+|  | [click _here_](https://dev.to/vaibhavdn/using-fnm-with-nushell-3kh1) |
+|  | [click _here_](https://www.techwatching.dev/posts/http-clients-secrets) |
+|  | [click _here_](https://jacekw.dev/blog/2022/first-experiences-with-nushell/) |
+|  | [click _here_](https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d) |
+|  | [click _here_](https://dataswamp.org/~solene/2022-10-31-nushell.html) |
+|  | [click _here_](https://zenn.dev/hkawa) |
+|  | [click _here_](https://www.reillywood.com/blog/why-nu/) |
+|  | [click _here_](https://determinate.systems/posts/nuenv) |
+|  | [click _here_](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell) |
+|  | [click _here_](https://www.seachess.net/notes/from-jq-to-nushell/) |
 
 | Part | Video | Title |
 | :----: | :----: | :---: |
