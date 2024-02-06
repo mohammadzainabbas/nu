@@ -12,21 +12,10 @@
 > [!NOTE]
 > This following list is a collection of videos that can be used to learn more about `nushell`. Original source of these videos can be found [here](https://github.com/nushell/showcase/tree/main/media).
 
-| Playlist | Playlist title |
-| :----: | :---: |
-| <a href="https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8"><img alt="The Rust Lang Book" src="https://img.youtube.com/vi/OX9HJsJUDxA/0.jpg" width="50%" ></a> | **The Rust Lang Book** |
-| <a href="https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa"><img alt="Crust of Rust" src="https://img.youtube.com/vi/rAl-9HwD858/0.jpg" width="50%" ></a> | **Crust of Rust** |
-| <a href="https://www.youtube.com/watch?v=BI_bHCGRgMY&list=PLqbS7AVVErFirH9armw8yXlE6dacF-A6z"><img alt="Decrusted" src="https://img.youtube.com/vi/BI_bHCGRgMY/0.jpg" width="50%" ></a> | **Decrusted** |
-
-
-### Backend Dev :computer:
-
-> [!TIP]
-> Below mentioned resources can be used to learn more about backend development in Rust.
 
 | Video | Title |
 | :----: | :---: |
-| <a href="https://www.youtube.com/watch?v=Wnb_n5YktO8"><img alt="Decrusting the axum crate" src="https://img.youtube.com/vi/Wnb_n5YktO8/0.jpg" width="50%" ></a> | **Decrusting the axum crate** |
+| <a href="https://www.youtube.com/watch?v=bMpYyqWCzZk"><img alt="Decrusting the axum crate" src="https://img.youtube.com/vi/bMpYyqWCzZk/0.jpg" width="50%" ></a> | **Decrusting the axum crate** |
 | <a href="https://www.youtube.com/watch?v=XZtlD_m59sM"><img alt="Rust Axum Full Course - Web Development (GitHub repo updated to Axum 0.7)" src="https://img.youtube.com/vi/XZtlD_m59sM/0.jpg" width="50%" ></a> | **Rust Axum Full Course - Web Development (GitHub repo updated to Axum 0.7)** |
 | <a href="https://www.youtube.com/watch?v=pwmIQzLuYl0"><img alt="Rust Programming: TypeState Builder Pattern Explained" src="https://img.youtube.com/vi/pwmIQzLuYl0/0.jpg" width="50%" ></a> | **Rust Programming: TypeState Builder Pattern Explained** |
 | <a href="https://www.youtube.com/watch?v=Z_3WOSiYYFY"><img alt="Rust Programming: The Ultimate Builder Pattern Tutorial" src="https://img.youtube.com/vi/Z_3WOSiYYFY/0.jpg" width="50%" ></a> | **Rust Programming: The Ultimate Builder Pattern Tutorial** |
