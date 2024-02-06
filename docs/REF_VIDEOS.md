@@ -16,3 +16,4 @@
 | Video | Title |
 | :----: | :---: |
 | <a href="https://www.youtube.com/watch?v=bMpYyqWCzZk"><img alt="A quick intro to Nushell (done for the couchbase meetup)" src="https://img.youtube.com/vi/bMpYyqWCzZk/0.jpg" width="50%" ></a> | **A quick intro to Nushell (done for the couchbase meetup)** |
+| <a href="https://www.youtube.com/watch?v=bMpYyqWCzZk"><img alt="A quick intro to Nushell (done for the couchbase meetup)" src="https://img.youtube.com/vi/bMpYyqWCzZk/0.jpg" width="50%" ></a> | **A quick intro to Nushell (done for the couchbase meetup)** |
