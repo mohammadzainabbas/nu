@@ -8,6 +8,6 @@
 #
 
 > [!TIP]
-> Check [<kbd> <br> <code>nushell</code> official docs <br> </kbd>](https://www.nushell.sh/), [<kbd> <br> <code>awesome-nu</code> <br> </kbd>](https://github.com/nushell/awesome-nu), [<kbd> <br> <code>awesome-nu</code> <br> </kbd>](https://github.com/nushell/nu_scripts), [<kbd> <br> <code>nushell</code> related blogs <br> </kbd>](https://github.com/mohammadzainabbas/nu/blob/main/docs/BLOGS.md) or [<kbd> <br> video based resources <br> </kbd>](https://github.com/mohammadzainabbas/nu/blob/main/docs/REF_VIDEOS.md) for more _learning_.
+> Check [<kbd> <br> <code>nushell</code> official docs <br> </kbd>](https://www.nushell.sh/), [<kbd> <br> <code>awesome-nu</code> <br> </kbd>](https://github.com/nushell/awesome-nu), [<kbd> <br> <code>nushell</code> <i>scripts</i> <br> </kbd>](https://github.com/nushell/nu_scripts), [<kbd> <br> <code>nushell</code> related blogs <br> </kbd>](https://github.com/mohammadzainabbas/nu/blob/main/docs/BLOGS.md) or [<kbd> <br> video based resources <br> </kbd>](https://github.com/mohammadzainabbas/nu/blob/main/docs/REF_VIDEOS.md) for more _learning_.
 
 #
