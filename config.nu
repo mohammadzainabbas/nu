@@ -1,5 +1,5 @@
 module config_path {
-    const config_dir = [(pwd) "configs"] | path join
+    const config_dir = [(pwd) "configs"]
     
 export def file [filename: string] {
         
