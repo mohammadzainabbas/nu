@@ -5,3 +5,5 @@ module config_path {
 }
 
 use config_path file
+
+file hello
