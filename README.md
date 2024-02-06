@@ -8,7 +8,7 @@
 #
 
 > [!TIP]
-> Check [<kbd> <br> <code>nushell</code> news <br> </kbd>](https://github.com/mohammadzainabbas/nu/blob/main/docs/BLOGS.md) or [<kbd> <br> video based resources <br> </kbd>](https://github.com/mohammadzainabbas/nu/blob/main/docs/REF_VIDEOS.md) for more _learning_.
+> Check [<kbd> <br> <code>nushell</code> official blogs <br> </kbd>](https://www.nushell.sh/blog/) or [<kbd> <br> video based resources <br> </kbd>](https://github.com/mohammadzainabbas/nu/blob/main/docs/REF_VIDEOS.md) for more _learning_.
 > Check [<kbd> <br> <code>nushell</code> related blogs <br> </kbd>](https://github.com/mohammadzainabbas/nu/blob/main/docs/BLOGS.md) or [<kbd> <br> video based resources <br> </kbd>](https://github.com/mohammadzainabbas/nu/blob/main/docs/REF_VIDEOS.md) for more _learning_.
 
 #
