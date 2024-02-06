@@ -35,11 +35,8 @@
 > [!TIP]
 > Below mentioned resources can be used to learn more about backend development in Rust.
 
-| Video | Title |
-| :----: | :---: |
-| <a href="https://www.youtube.com/watch?v=Wnb_n5YktO8"><img alt="Decrusting the axum crate" src="https://img.youtube.com/vi/Wnb_n5YktO8/0.jpg" width="50%" ></a> | **Decrusting the axum crate** |
-
-
+| Part | Video | Title |
+| :----: | :----: | :---: |
 | 1 | <a href="https://www.youtube.com/watch?v=xXVyHsRR168"><img alt="Part 1" src="https://img.youtube.com/vi/xXVyHsRR168/0.jpg" width="50%"></a> | **Part 1** |
 | 2 | <a href="https://www.youtube.com/watch?v=rwxTQEk33OE"><img alt="Part 2" src="https://img.youtube.com/vi/rwxTQEk33OE/0.jpg" width="50%"></a> | **Part 2** |
 | 3 | <a href="https://www.youtube.com/watch?v=lO5aUQhZzSs"><img alt="Part 3" src="https://img.youtube.com/vi/lO5aUQhZzSs/0.jpg" width="50%"></a> | **Part 3** |
