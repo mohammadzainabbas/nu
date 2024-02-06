@@ -4,7 +4,7 @@
 > This following list is a collection of blogs that can be used to learn more about `nushell`.
 
 
-| Title | Link |
+| Blog title | Link |
 | :----: | :---: |
 | `nushell`: Cross-platform Shell That Gives You More Clarity on Error Messages | [click _here_](https://itsfoss.com/nushell/) |
 | `nushell` – a shell with a new idea | [click _here_](https://www.linux.pl/2022/05/17/nushell-powloka-z-nowym-pomyslem/) |
