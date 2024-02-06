@@ -8,8 +8,8 @@
 | :----: | :---: |
 
 | Nushell: Cross-platform Shell That Gives You More Clarity on Error Messages | [click _here_](https://itsfoss.com/nushell/) |
-|  | [click _here_](https://www.linux.pl/2022/05/17/nushell-powloka-z-nowym-pomyslem/) |
-|  | [click _here_](https://dev.to/vaibhavdn/using-fnm-with-nushell-3kh1) |
+| Nushell – a shell with a new idea | [click _here_](https://www.linux.pl/2022/05/17/nushell-powloka-z-nowym-pomyslem/) |
+| Using FNM with Nushell | [click _here_](https://dev.to/vaibhavdn/using-fnm-with-nushell-3kh1) |
 |  | [click _here_](https://www.techwatching.dev/posts/http-clients-secrets) |
 |  | [click _here_](https://jacekw.dev/blog/2022/first-experiences-with-nushell/) |
 |  | [click _here_](https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d) |
