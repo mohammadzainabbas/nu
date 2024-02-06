@@ -23,6 +23,6 @@
 | <a href="https://www.youtube.com/watch?v=3o8b_QcrFHc"><img alt="Designing a parallel scripting engine" src="https://img.youtube.com/vi/3o8b_QcrFHc/0.jpg" width="50%" ></a> | **Designing a parallel scripting engine** |
 | <a href="https://www.youtube.com/watch?v=8VCKHIooB_8"><img alt="Nushell's upcoming engine" src="https://img.youtube.com/vi/8VCKHIooB_8/0.jpg" width="50%" ></a> | **Nushell's upcoming engine** |
 | <a href="https://www.youtube.com/watch?v=CPI2XeX-uJQ"><img alt="Nushell quickie: working with text files" src="https://img.youtube.com/vi/CPI2XeX-uJQ/0.jpg" width="50%" ></a> | **Nushell quickie: working with text files** |
-| <a href="https://www.youtube.com/watch?v=CPI2XeX-uJQ"><img alt="Nushell quickie: working with text files" src="https://img.youtube.com/vi/CPI2XeX-uJQ/0.jpg" width="50%" ></a> | **Nushell quickie: working with text files** |
+| <a href="https://www.youtube.com/watch?v=AqYxhJKblvY"><img alt="Nushell quickie: working with text files" src="https://img.youtube.com/vi/AqYxhJKblvY/0.jpg" width="50%" ></a> | **Nushell quickie: working with text files** |
 
-https://www.youtube.com/watch?v=CPI2XeX-uJQ
+https://www.youtube.com/watch?v=AqYxhJKblvY
