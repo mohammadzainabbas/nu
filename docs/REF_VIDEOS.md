@@ -11,8 +11,8 @@
 
 https://github.com/nushell/showcase/tree/main/media
 
-> [!TIP]
-> Below mentioned playlists can be used to learn more about Rust.
+> [!NOTE]
+> This following list is a collection of videos that can be used to learn more about `nushell`.
 
 | Playlist | Playlist title |
 | :----: | :---: |
