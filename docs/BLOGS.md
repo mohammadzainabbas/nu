@@ -16,9 +16,9 @@
 | Nushell: Introduction to a new kind of shell | [click _here_](https://dataswamp.org/~solene/2022-10-31-nushell.html) |
 | Articles by _hkawa_ | [click _here_](https://zenn.dev/hkawa) |
 | WHY NUSHELL? | [click _here_](https://www.reillywood.com/blog/why-nu/) |
-|  | [click _here_](https://determinate.systems/posts/nuenv) |
-|  | [click _here_](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell) |
-|  | [click _here_](https://www.seachess.net/notes/from-jq-to-nushell/) |
+| Nuenv: an experimental Nushell environment for Nix | [click _here_](https://determinate.systems/posts/nuenv) |
+| Writing shell scripts in Nushell | [click _here_](https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell) |
+| From jq to Nushell | [click _here_](https://www.seachess.net/notes/from-jq-to-nushell/) |
 
 | Part | Video | Title |
 | :----: | :----: | :---: |
