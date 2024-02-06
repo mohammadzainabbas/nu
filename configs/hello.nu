@@ -1,1 +1,1 @@
-def foo [] { "Hi from hello.nu" }
+export def foo [] { "Hi from hello.nu" }
