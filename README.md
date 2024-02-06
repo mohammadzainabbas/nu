@@ -2,7 +2,7 @@
     <picture>
         <img style="width:20%;visibility:visible;" alt="nushell" src="https://raw.githubusercontent.com/nushell/showcase/e8e7359e9f81286f36624f087677ab0a6fca0572/artwork/green-black.png" width="100">
     </picture>
-    <h5> Some dotfiles for nushell 💻 </h5>
+    <h5> A snapshot of nushell configs and scripts 💻 </h5>
 </div>
 
 #
