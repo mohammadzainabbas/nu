@@ -12,8 +12,8 @@
 | Using FNM with Nushell | [click _here_](https://dev.to/vaibhavdn/using-fnm-with-nushell-3kh1) |
 | Keeping secrets secure when using API Clients | [click _here_](https://www.techwatching.dev/posts/http-clients-secrets) |
 | My first experiences with NuShell | [click _here_](https://jacekw.dev/blog/2022/first-experiences-with-nushell/) |
-|  | [click _here_](https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d) |
-|  | [click _here_](https://dataswamp.org/~solene/2022-10-31-nushell.html) |
+| The modern CLI stack | [click _here_](https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d) |
+| Nushell: Introduction to a new kind of shell | [click _here_](https://dataswamp.org/~solene/2022-10-31-nushell.html) |
 |  | [click _here_](https://zenn.dev/hkawa) |
 |  | [click _here_](https://www.reillywood.com/blog/why-nu/) |
 |  | [click _here_](https://determinate.systems/posts/nuenv) |
