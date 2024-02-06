@@ -5,4 +5,4 @@ const config_dir = "~/.config/nushell/configs"
 #     }
 # }
 
-use $"($config_dir)/hello.nu"
+use "~/.config/nushell/configs/hello.nu"
