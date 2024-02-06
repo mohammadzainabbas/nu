@@ -1,1 +1,1 @@
-print "Hi from hello.rs"
+print "Hi from hello.nu"
