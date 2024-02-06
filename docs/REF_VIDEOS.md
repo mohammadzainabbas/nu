@@ -3,7 +3,7 @@
 ### Table of Contents
 
 1. [`nushell` showcase :clapper:](#nushell-showcase-clapper)
-1. [Backend Dev :computer:](#backend-dev-computer)
+1. [Reedline - Creating a Line Editor in Rust :computer:](#backend-dev-computer)
 
 #
 
@@ -30,7 +30,7 @@
 | <a href="https://www.youtube.com/watch?v=pBOZpyqldZQ"><img alt="Coding Nushell: improving the 'source' command" src="https://img.youtube.com/vi/pBOZpyqldZQ/0.jpg" width="50%" ></a> | **Coding Nushell: improving the 'source' command** |
 
 
-### Backend Dev :computer:
+### Reedline - Creating a Line Editor in Rust :computer:
 
 > [!TIP]
 > Below mentioned resources can be used to learn more about backend development in Rust.
