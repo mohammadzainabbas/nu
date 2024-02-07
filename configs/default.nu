@@ -761,6 +761,5 @@ $env.config = {
     ]
 }
 
-# Enable starship
-# Enable starship
+# Add common configs
 use ~/.config/nushell/external/starship/init.nu
