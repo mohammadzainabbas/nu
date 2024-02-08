@@ -2,12 +2,18 @@
 # - overlay which can be loaded with `overlay use starship.nu`
 # - module which can be used with `use starship.nu`
 # - script which can be used with `source starship.nu`
+# 
+# -----------------------------------------
+# Modified version of starship init script method for nu-shell
+# 
+# Find original version at (https://github.com/starship/starship/blob/master/src/init/starship.nu)
+# -----------------------------------------
+
 export-env { load-env {
     STARSHIP_SHELL: "nu"
-    STARSHIP_SESSION_KEY: ("nu " ++ (random chars -l 16))
-    STARSHIP_CACHE: "~/.config/starship/cache/"
     STARSHIP_SESSION_KEY: (["nu", (random chars -l 16)] | str join " ")
     STARSHIP_CONFIG: ("~/.config/starship/themes/bracketed-segments.toml" | path expand)
+    # STARSHIP_CACHE: ("~/.config/starship/cache/" | path expand)
     PROMPT_MULTILINE_INDICATOR: (
         ^/opt/homebrew/bin/starship prompt --continuation
     )
