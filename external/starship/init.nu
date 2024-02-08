@@ -6,6 +6,7 @@ export-env { load-env {
     STARSHIP_SHELL: "nu"
     STARSHIP_SESSION_KEY: ("nu " ++ (random chars -l 16))
     STARSHIP_CACHE: "~/.config/starship/cache/"
+    STARSHIP_SESSION_KEY: (["nu", (random chars -l 16)] | str join " ")
     PROMPT_MULTILINE_INDICATOR: (
         ^/opt/homebrew/bin/starship prompt --continuation
     )
