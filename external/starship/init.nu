@@ -7,6 +7,7 @@ export-env { load-env {
     STARSHIP_SESSION_KEY: ("nu " ++ (random chars -l 16))
     STARSHIP_CACHE: "~/.config/starship/cache/"
     STARSHIP_SESSION_KEY: (["nu", (random chars -l 16)] | str join " ")
+    STARSHIP_CONFIG: ("~/.config/starship/themes/bracketed-segments.toml" | path expand)
     PROMPT_MULTILINE_INDICATOR: (
         ^/opt/homebrew/bin/starship prompt --continuation
     )
