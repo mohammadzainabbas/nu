@@ -4,7 +4,8 @@
 # - script which can be used with `source starship.nu`
 export-env { load-env {
     STARSHIP_SHELL: "nu"
-    STARSHIP_SESSION_KEY: (random chars -l 16)
+    STARSHIP_SESSION_KEY: ("nu " ++ (random chars -l 16))
+    STARSHIP_CACHE: "~/.config/starship/cache/"
     PROMPT_MULTILINE_INDICATOR: (
         ^/opt/homebrew/bin/starship prompt --continuation
     )
