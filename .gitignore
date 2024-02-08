@@ -1,2 +1,5 @@
 # Ignore macOS directory attributes
 .DS_Store
+
+#Ignore .vscode
+.vscode
