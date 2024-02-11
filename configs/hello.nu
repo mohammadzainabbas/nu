@@ -1,1 +1,0 @@
-export def foo [] { "Hi from hello.nu" }
