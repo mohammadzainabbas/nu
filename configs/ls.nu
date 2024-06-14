@@ -277,17 +277,6 @@ $env.config = {
     use_kitty_protocol: false # enables keyboard enhancement protocol implemented by kitty console, only if your terminal support this.
     highlight_resolved_externals: false # true enables highlighting of external commands in the repl resolved by which.
 
-    shell_integration: {
-        # osc2 abbreviates the path if in the home_dir, sets the tab/window title, shows the running command in the tab/window title
-        osc2: true
-        # osc7 is a way to communicate the path to the terminal, this is helpful for spawning new tabs in the same directory
-        osc7: true
-        # osc8 is also implemented as the deprecated setting ls.show_clickable_links, it shows clickable links in ls output if your terminal supports it
-        osc8: true
-        # osc9_9 is from ConEmu and is starting to get wider support. It's similar to osc7 in that it communicates the path to the terminal
-        osc9_9: false
-    }
-
     hooks: {
         pre_prompt: [{ null }] # run before the prompt is shown
         pre_execution: [{ null }] # run before the repl input is run
