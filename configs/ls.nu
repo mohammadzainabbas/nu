@@ -277,6 +277,11 @@ $env.config = {
     use_kitty_protocol: false # enables keyboard enhancement protocol implemented by kitty console, only if your terminal support this.
     highlight_resolved_externals: false # true enables highlighting of external commands in the repl resolved by which.
 
+    shell_integration: {
+        # osc2 abbreviates the path if in the home_dir, sets the tab/window title, shows the running command in the tab/window title
+        osc2: true
+    }
+
     hooks: {
         pre_prompt: [{ null }] # run before the prompt is shown
         pre_execution: [{ null }] # run before the repl input is run
