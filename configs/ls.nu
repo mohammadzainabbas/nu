@@ -282,6 +282,8 @@ $env.config = {
         osc2: true
         # osc7 is a way to communicate the path to the terminal, this is helpful for spawning new tabs in the same directory
         osc7: true
+        # osc8 is also implemented as the deprecated setting ls.show_clickable_links, it shows clickable links in ls output if your terminal supports it
+        osc8: true
     }
 
     hooks: {
