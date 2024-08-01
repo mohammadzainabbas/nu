@@ -11,16 +11,8 @@
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/nushell:1": {}
 	},
-
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
-
-	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "uname -a",
-
-	// "postStartCommand": "micromamba create -f /workspaces/anomaly-detection/env.yml -y",
 	
-	// "postAttachCommand": "echo 'nu' >> ~/.bashrc",
+	"postAttachCommand": "echo 'nu' >> ~/.bashrc",
 
 	// Configure tool-specific properties.
 	"customizations": {
