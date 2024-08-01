@@ -9,15 +9,15 @@
 	},
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
-		"ghcr.io/mamba-org/devcontainer-features/micromamba:1": {},
-		"ghcr.io/devcontainers-contrib/features/nushell:1": {},
-		"ghcr.io/devcontainers/features/github-cli:1": {},
-		"ghcr.io/devcontainers-contrib/features/act:1": {},
-		"ghcr.io/devcontainers/features/aws-cli:1": {},
-		"ghcr.io/devcontainers/features/azure-cli:1": {},
-		"ghcr.io/devcontainers/features/rust:1": {},
-		"ghcr.io/flexwie/devcontainer-features/pulumi:1": {},
-		"ghcr.io/devcontainers-contrib/features/hatch:2": {}
+		// "ghcr.io/mamba-org/devcontainer-features/micromamba:1": {},
+		// "ghcr.io/devcontainers-contrib/features/nushell:1": {},
+		// "ghcr.io/devcontainers/features/github-cli:1": {},
+		// "ghcr.io/devcontainers-contrib/features/act:1": {},
+		// "ghcr.io/devcontainers/features/aws-cli:1": {},
+		// "ghcr.io/devcontainers/features/azure-cli:1": {},
+		// "ghcr.io/devcontainers/features/rust:1": {},
+		// "ghcr.io/flexwie/devcontainer-features/pulumi:1": {},
+		// "ghcr.io/devcontainers-contrib/features/hatch:2": {}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
@@ -26,9 +26,9 @@
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "uname -a",
 
-	"postStartCommand": "micromamba create -f /workspaces/anomaly-detection/env.yml -y",
+	// "postStartCommand": "micromamba create -f /workspaces/anomaly-detection/env.yml -y",
 	
-	"postAttachCommand": "echo 'micromamba activate data_pipeline' >> ~/.bashrc",
+	// "postAttachCommand": "echo 'micromamba activate data_pipeline' >> ~/.bashrc",
 
 	// Configure tool-specific properties.
 	"customizations": {
