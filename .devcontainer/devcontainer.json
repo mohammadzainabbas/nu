@@ -38,14 +38,14 @@
 				"GitHub.copilot-chat",
 				"GitHub.copilot-labs",
 				"GitHub.codespaces",
-				"github.vscode-github-actions",
-				"ms-python.python",
-				"ms-python.debugpy",
-				"ms-vscode-remote.remote-containers",
-				"ms-vscode-remote.remote-wsl",
-				"ms-azuretools.vscode-docker",
-				"mechatroner.rainbow-csv",
-				"ms-toolsai.jupyter"
+				"github.vscode-github-actions"
+				// "ms-python.python",
+				// "ms-python.debugpy",
+				// "ms-vscode-remote.remote-containers",
+				// "ms-vscode-remote.remote-wsl",
+				// "ms-azuretools.vscode-docker",
+				// "mechatroner.rainbow-csv",
+				// "ms-toolsai.jupyter"
 			]
 		}
 	},
