@@ -38,7 +38,8 @@
 				"GitHub.copilot-chat",
 				"GitHub.copilot-labs",
 				"GitHub.codespaces",
-				"github.vscode-github-actions"
+				"github.vscode-github-actions",
+				"TheNuProjectContributors.vscode-nushell-lang"
 			]
 		}
 	}
