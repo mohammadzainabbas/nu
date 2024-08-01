@@ -20,7 +20,7 @@
 
 	// "postStartCommand": "micromamba create -f /workspaces/anomaly-detection/env.yml -y",
 	
-	// "postAttachCommand": "echo 'micromamba activate data_pipeline' >> ~/.bashrc",
+	// "postAttachCommand": "echo 'nu' >> ~/.bashrc",
 
 	// Configure tool-specific properties.
 	"customizations": {
